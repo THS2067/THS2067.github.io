@@ -6,5 +6,4 @@ Check out my favorite [This is my Twitch Channel](https://www.twitch.tv/dallas_c
 
 <p> This is Ninja, he is the Goat </p>
 
-![The Goat]
-(https://cdn.mos.cms.futurecdn.net/skSeuTtFrBgvc9BWyu2XMN-320-80.jpg)
+![The Goat](https://cdn.mos.cms.futurecdn.net/skSeuTtFrBgvc9BWyu2XMN-320-80.jpg)
