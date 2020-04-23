@@ -2,5 +2,5 @@
 
 ## I Play Fortnite
 
-Check out my favorite [https://www.twitch.tv/dallas_crowley/]
+Check out my favorite [This is my Twitch Channel] (https://www.twitch.tv/dallas_crowley/)
 
