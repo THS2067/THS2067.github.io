@@ -1,6 +1,6 @@
 # Hello World
 
-## I am a Fortnite God!
+## I Play Fortnite
 
-Check out my favorite [website]
+Check out my favorite [https://www.twitch.tv/dallas_crowley/]
 
