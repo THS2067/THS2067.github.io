@@ -2,7 +2,7 @@
 
 ## I Play Fortnite
 
-Check out my favorite [This is my Twitch Channel](https://www.twitch.tv/dallas_crowley/)
+Check out my Channel [This is my Twitch Channel](https://www.twitch.tv/dallas_crowley/)
 
 <p> This is Ninja, he is the Goat </p>
 
