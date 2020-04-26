@@ -10,6 +10,6 @@ Check out my Channel [This is my Twitch Channel](https://www.twitch.tv/dallas_cr
 
 | I | Put | These | 
 | Boxes | Here | For | 
-| No | Reason | ! | 
+| No | Reason |  | 
 
-![bg](#39ffaf)
+<!-- background: #ffc327 -->
