@@ -11,7 +11,6 @@ Check out my Channel [This is my Twitch Channel](https://www.twitch.tv/dallas_cr
 | Name: | Dallas Crowley |  
 | Email: | THS2067@towerhill.org |
 
-<!-- background: #fff4e3 -->
-<!-- color: #0000FF --> 
+<body bgcolor="#336655">
 
 
