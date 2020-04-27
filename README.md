@@ -12,12 +12,12 @@ Check out my Channel [This is my Twitch Channel](https://www.twitch.tv/dallas_cr
 | Email: | THS2067@towerhill.org |
 
 <!-- Inline Code Block -->
-`<p>This is a paragraph</p>`
+`About Me`
 
 <!-- Blockquote -->
-> This is a quote
+> My Favorite Sports Are:
 
 <!-- Task List -->
-* [x] Task 1
-* [x] Task 2
-* [x] Task 3
+* [x] Baseball
+* [x] Basketball
+* [x] Soccer
