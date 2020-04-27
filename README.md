@@ -12,14 +12,7 @@ Check out my Channel [This is my Twitch Channel](https://www.twitch.tv/dallas_cr
 | Email: | THS2067@towerhill.org |
 
 
-body{
-    font-family: helvetica, arial, freesans, clean, sans-serif;
-    color: #333;
-    background-color: red;
-    border-color: #999999;
-    border-width: 2px;
-    line-height: 1.5;
-    text-align:left;
-}
+## CSS color background {data-background=#ff0000}
+
 
 
