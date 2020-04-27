@@ -1,3 +1,6 @@
+<style>
+  body {background blue;}
+<style>
 # Hello World
 
 ## My name is Dallas Crowley
@@ -22,6 +25,4 @@ Check out my Channel [This is my Twitch Channel](https://www.twitch.tv/dallas_cr
 * [x] Basketball
 * [x] Soccer
 
-<style>
-  body {background blue;}
-<style>
+
